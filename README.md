@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0303-range-sum-query-immutable](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0414-third-maximum-number) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0729-my-calendar-i](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0731-my-calendar-ii) |
