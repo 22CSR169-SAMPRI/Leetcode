@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0165-compare-version-numbers](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0349-intersection-of-two-arrays](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0696-count-binary-substrings](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0696-count-binary-substrings) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0696-count-binary-substrings](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0696-count-binary-substrings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Array
 |  |
