@@ -1,6 +1,6 @@
 class Solution {
     public int countPairs(List<Integer> nums, int target) {
-        /*
+        
         Collections.sort(nums); // sort the vector nums
         int count = 0; // variable to store the count
         int left = 0; // variable to store the left
@@ -14,7 +14,8 @@ class Solution {
                 right--; // decrement the right
             }
         }
-        return count; */
+        return count; 
+        /*
         int c=0;
         for(int i=0;i<nums.size();i++){
             for(int j=i+1;j<nums.size();j++){
@@ -23,5 +24,6 @@ class Solution {
             }
         }
         return c;
+        */
     }
 }
