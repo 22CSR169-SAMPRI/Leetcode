@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0035-search-insert-position) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -126,4 +127,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
