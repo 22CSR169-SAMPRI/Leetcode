@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0287-find-the-duplicate-number](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0443-string-compression](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0443-string-compression) |
 | [0696-count-binary-substrings](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0941-sort-array-by-parity](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0443-string-compression](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0443-string-compression) |
 | [0696-count-binary-substrings](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0696-count-binary-substrings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Array
