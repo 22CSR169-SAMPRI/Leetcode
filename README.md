@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0067-add-binary) |
 | [2491-smallest-even-multiple](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2722-prime-in-diagonal](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2722-prime-in-diagonal) |
 ## Bit Manipulation
 |  |
@@ -235,5 +236,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2722-prime-in-diagonal](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2722-prime-in-diagonal) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
