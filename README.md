@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0067-add-binary) |
+| [2491-smallest-even-multiple](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2722-prime-in-diagonal](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2722-prime-in-diagonal) |
 ## Bit Manipulation
 |  |
@@ -233,5 +234,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2491-smallest-even-multiple](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2722-prime-in-diagonal](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2722-prime-in-diagonal) |
 <!---LeetCode Topics End-->
