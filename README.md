@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0100-same-tree) |
+| [0547-number-of-provinces](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0547-number-of-provinces) |
 | [1036-rotting-oranges](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1073-number-of-enclaves) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0100-same-tree) |
+| [0547-number-of-provinces](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0547-number-of-provinces) |
 | [1073-number-of-enclaves](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1073-number-of-enclaves) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Number Theory
@@ -263,9 +265,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0547-number-of-provinces) |
 | [1039-find-the-town-judge](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1039-find-the-town-judge) |
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0547-number-of-provinces) |
 | [1073-number-of-enclaves](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1073-number-of-enclaves) |
 <!---LeetCode Topics End-->
