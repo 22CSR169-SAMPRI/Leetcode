@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2722-prime-in-diagonal](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2722-prime-in-diagonal) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3291-find-if-array-can-be-sorted](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Sliding Window
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [3291-find-if-array-can-be-sorted](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Simulation
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3291-find-if-array-can-be-sorted](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Design
 |  |
 | ------- |
