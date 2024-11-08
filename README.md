@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1675-magnetic-force-between-two-balls](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1755-defuse-the-bomb](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1755-defuse-the-bomb) |
+| [1940-maximum-xor-for-each-query](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2089-maximum-matrix-sum](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1940-maximum-xor-for-each-query](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Simulation
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0731-my-calendar-ii](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0731-my-calendar-ii) |
+| [1940-maximum-xor-for-each-query](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 ## Segment Tree
 |  |
 | ------- |
