@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1133-last-substring-in-lexicographical-order](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1133-last-substring-in-lexicographical-order) |
 | [1197-parsing-a-boolean-expression](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1304-longest-happy-string) |
+| [1513-find-all-good-strings](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1513-find-all-good-strings) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1042-minimum-cost-to-merge-stones](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1277-largest-multiple-of-three](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1277-largest-multiple-of-three) |
 | [1489-pizza-with-3n-slices](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1489-pizza-with-3n-slices) |
+| [1513-find-all-good-strings](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1513-find-all-good-strings) |
 | [1545-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1545-form-largest-integer-with-digits-that-add-up-to-target) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 ## Heap (Priority Queue)
@@ -365,4 +367,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1563-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1563-maximum-number-of-darts-inside-of-a-circular-dartboard) |
+## String Matching
+|  |
+| ------- |
+| [1513-find-all-good-strings](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1513-find-all-good-strings) |
 <!---LeetCode Topics End-->
