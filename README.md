@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-largest-multiple-of-three](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1277-largest-multiple-of-three) |
 | [1344-maximum-equal-frequency](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1344-maximum-equal-frequency) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1489-pizza-with-3n-slices](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1489-pizza-with-3n-slices) |
 | [1545-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1545-form-largest-integer-with-digits-that-add-up-to-target) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1255-reverse-subarray-to-maximize-array-value](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1255-reverse-subarray-to-maximize-array-value) |
 | [1277-largest-multiple-of-three](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1277-largest-multiple-of-three) |
 | [1304-longest-happy-string](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1304-longest-happy-string) |
+| [1489-pizza-with-3n-slices](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1489-pizza-with-3n-slices) |
 | [2089-maximum-matrix-sum](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Counting Sort
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0629-k-inverse-pairs-array](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0629-k-inverse-pairs-array) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1277-largest-multiple-of-three](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1277-largest-multiple-of-three) |
+| [1489-pizza-with-3n-slices](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1489-pizza-with-3n-slices) |
 | [1545-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1545-form-largest-integer-with-digits-that-add-up-to-target) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 ## Heap (Priority Queue)
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0744-network-delay-time) |
 | [1304-longest-happy-string](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1304-longest-happy-string) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1489-pizza-with-3n-slices](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1489-pizza-with-3n-slices) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 ## Matrix
 |  |
