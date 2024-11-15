@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0224-basic-calculator](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0224-basic-calculator) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0443-string-compression](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0443-string-compression) |
 | [0696-count-binary-substrings](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0696-count-binary-substrings) |
 | [1197-parsing-a-boolean-expression](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0729-my-calendar-i](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0731-my-calendar-ii) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Search Tree
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Bucket Sort
@@ -242,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0100-same-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0744-network-delay-time) |
 | [1036-rotting-oranges](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1036-rotting-oranges) |
@@ -278,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0100-same-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0744-network-delay-time) |
 | [1073-number-of-enclaves](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1073-number-of-enclaves) |
