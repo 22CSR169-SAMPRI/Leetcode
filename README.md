@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-maximum-equal-frequency](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1344-maximum-equal-frequency) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
+| [1555-number-of-ways-of-cutting-a-pizza](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1675-magnetic-force-between-two-balls](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1755-defuse-the-bomb](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1940-maximum-xor-for-each-query](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0629-k-inverse-pairs-array](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0629-k-inverse-pairs-array) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1277-largest-multiple-of-three](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1277-largest-multiple-of-three) |
+| [1555-number-of-ways-of-cutting-a-pizza](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
+| [1555-number-of-ways-of-cutting-a-pizza](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [2089-maximum-matrix-sum](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2722-prime-in-diagonal](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2722-prime-in-diagonal) |
 ## Divide and Conquer
@@ -346,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0744-network-delay-time) |
+## Memoization
+|  |
+| ------- |
+| [1555-number-of-ways-of-cutting-a-pizza](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 <!---LeetCode Topics End-->
