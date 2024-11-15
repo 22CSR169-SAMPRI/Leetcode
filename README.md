@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-largest-multiple-of-three](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1277-largest-multiple-of-three) |
 | [1344-maximum-equal-frequency](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1344-maximum-equal-frequency) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1675-magnetic-force-between-two-balls](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1755-defuse-the-bomb](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1940-maximum-xor-for-each-query](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0731-my-calendar-ii) |
 | [1262-online-majority-element-in-subarray](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1262-online-majority-element-in-subarray) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1675-magnetic-force-between-two-balls](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -222,12 +224,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0744-network-delay-time) |
 | [1304-longest-happy-string](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1304-longest-happy-string) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 ## Matrix
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [2089-maximum-matrix-sum](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2722-prime-in-diagonal](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2722-prime-in-diagonal) |
 ## Divide and Conquer
