@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0224-basic-calculator](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0224-basic-calculator) |
 | [0443-string-compression](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0443-string-compression) |
 | [0696-count-binary-substrings](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0696-count-binary-substrings) |
 | [1197-parsing-a-boolean-expression](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0067-add-binary) |
+| [0224-basic-calculator](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0224-basic-calculator) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2491-smallest-even-multiple](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2507-number-of-common-factors) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0224-basic-calculator) |
 | [0739-daily-temperatures](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0739-daily-temperatures) |
 | [1197-parsing-a-boolean-expression](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 ## Monotonic Stack
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0224-basic-calculator) |
 | [1197-parsing-a-boolean-expression](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Backtracking
