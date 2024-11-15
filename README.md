@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0233-number-of-digit-one](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0300-longest-increasing-subsequence](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0629-k-inverse-pairs-array](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0629-k-inverse-pairs-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
