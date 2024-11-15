@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Heap (Priority Queue)
 |  |
