@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-maximum-matrix-sum](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2722-prime-in-diagonal](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2722-prime-in-diagonal) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1755-defuse-the-bomb](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Hash Table
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1675-magnetic-force-between-two-balls](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0731-my-calendar-ii](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0731-my-calendar-ii) |
 | [1940-maximum-xor-for-each-query](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Segment Tree
 |  |
 | ------- |
