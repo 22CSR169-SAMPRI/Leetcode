@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2685-first-completely-painted-row-or-column](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2722-prime-in-diagonal](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2722-prime-in-diagonal) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2685-first-completely-painted-row-or-column](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [2089-maximum-matrix-sum](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2089-maximum-matrix-sum) |
+| [2685-first-completely-painted-row-or-column](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2722-prime-in-diagonal](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2722-prime-in-diagonal) |
 ## Divide and Conquer
 |  |
