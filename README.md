@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1940-maximum-xor-for-each-query](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2089-maximum-matrix-sum](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2089-maximum-matrix-sum) |
+| [2145-grid-game](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2145-grid-game) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0731-my-calendar-ii) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1940-maximum-xor-for-each-query](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
+| [2145-grid-game](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2145-grid-game) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Segment Tree
 |  |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [2089-maximum-matrix-sum](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2089-maximum-matrix-sum) |
+| [2145-grid-game](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2722-prime-in-diagonal](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2722-prime-in-diagonal) |
 ## Divide and Conquer
