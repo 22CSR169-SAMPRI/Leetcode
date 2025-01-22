@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1563-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1675-magnetic-force-between-two-balls](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1755-defuse-the-bomb](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1755-defuse-the-bomb) |
+| [1876-map-of-highest-peak](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1940-maximum-xor-for-each-query](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2089-maximum-matrix-sum](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2145-grid-game) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
+| [1876-map-of-highest-peak](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2089-maximum-matrix-sum](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0744-network-delay-time) |
 | [1036-rotting-oranges](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1876-map-of-highest-peak](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Stack
