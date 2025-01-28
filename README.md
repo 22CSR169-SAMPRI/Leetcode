@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2685-first-completely-painted-row-or-column](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2722-prime-in-diagonal](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2722-prime-in-diagonal) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3291-find-if-array-can-be-sorted](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2722-prime-in-diagonal](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2722-prime-in-diagonal) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Number Theory
 |  |
 | ------- |
@@ -379,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0547-number-of-provinces) |
 | [1073-number-of-enclaves](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
