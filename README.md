@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1876-map-of-highest-peak) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1039-find-the-town-judge](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1039-find-the-town-judge) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Union Find
 |  |
 | ------- |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0684-redundant-connection) |
 | [1073-number-of-enclaves](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Shortest Path
 |  |
