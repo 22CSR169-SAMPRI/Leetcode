@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-online-majority-element-in-subarray](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1262-online-majority-element-in-subarray) |
 | [1277-largest-multiple-of-three](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1277-largest-multiple-of-three) |
 | [1344-maximum-equal-frequency](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1344-maximum-equal-frequency) |
+| [1364-tuple-with-same-product](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1489-pizza-with-3n-slices](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1489-pizza-with-3n-slices) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1039-find-the-town-judge](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1344-maximum-equal-frequency](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1344-maximum-equal-frequency) |
+| [1364-tuple-with-same-product](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1364-tuple-with-same-product](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
