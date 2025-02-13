@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0224-basic-calculator](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0233-number-of-digit-one) |
 | [1197-parsing-a-boolean-expression](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Depth-First Search
 |  |
