@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1477-product-of-the-last-k-numbers](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1489-pizza-with-3n-slices](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1489-pizza-with-3n-slices) |
 | [1545-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1545-form-largest-integer-with-digits-that-add-up-to-target) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1255-reverse-subarray-to-maximize-array-value](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1255-reverse-subarray-to-maximize-array-value) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1477-product-of-the-last-k-numbers](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1563-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1563-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [2491-smallest-even-multiple](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2507-number-of-common-factors) |
@@ -202,12 +204,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0731-my-calendar-ii) |
 | [1262-online-majority-element-in-subarray](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1262-online-majority-element-in-subarray) |
+| [1477-product-of-the-last-k-numbers](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0731-my-calendar-ii](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0731-my-calendar-ii) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1042-minimum-cost-to-merge-stones) |
+| [1477-product-of-the-last-k-numbers](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1940-maximum-xor-for-each-query](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2145-grid-game](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2145-grid-game) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -434,4 +438,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
