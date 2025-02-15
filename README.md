@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2722-prime-in-diagonal](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2722-prime-in-diagonal) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0052-n-queens-ii](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0052-n-queens-ii) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Linked List
 |  |
 | ------- |
