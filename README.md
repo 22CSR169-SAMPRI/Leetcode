@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1563-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1675-magnetic-force-between-two-balls](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1755-defuse-the-bomb](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1755-defuse-the-bomb) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1876-map-of-highest-peak](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0052-n-queens-ii](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0052-n-queens-ii) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Linked List
 |  |
