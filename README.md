@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1255-reverse-subarray-to-maximize-array-value](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1255-reverse-subarray-to-maximize-array-value) |
 | [1277-largest-multiple-of-three](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1277-largest-multiple-of-three) |
 | [1304-longest-happy-string](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1304-longest-happy-string) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0087-scramble-string](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0087-scramble-string) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
