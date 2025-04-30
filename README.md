@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1255-reverse-subarray-to-maximize-array-value](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1255-reverse-subarray-to-maximize-array-value) |
 | [1262-online-majority-element-in-subarray](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1262-online-majority-element-in-subarray) |
 | [1277-largest-multiple-of-three](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1277-largest-multiple-of-three) |
+| [1306-minimum-absolute-difference](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1344-maximum-equal-frequency](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1344-maximum-equal-frequency) |
 | [1364-tuple-with-same-product](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0414-third-maximum-number) |
 | [0941-sort-array-by-parity](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [1306-minimum-absolute-difference](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1675-magnetic-force-between-two-balls](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
