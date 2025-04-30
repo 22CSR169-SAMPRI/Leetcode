@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0696-count-binary-substrings) |
+| [0768-partition-labels](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1133-last-substring-in-lexicographical-order) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0696-count-binary-substrings) |
+| [0768-partition-labels](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0768-partition-labels) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1133-last-substring-in-lexicographical-order) |
 | [1197-parsing-a-boolean-expression](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1304-longest-happy-string) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0768-partition-labels](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0768-partition-labels) |
 | [1039-find-the-town-judge](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1344-maximum-equal-frequency](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1344-maximum-equal-frequency) |
 | [1364-tuple-with-same-product](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1364-tuple-with-same-product) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0455-assign-cookies) |
+| [0768-partition-labels](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0768-partition-labels) |
 | [1255-reverse-subarray-to-maximize-array-value](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1255-reverse-subarray-to-maximize-array-value) |
 | [1277-largest-multiple-of-three](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1277-largest-multiple-of-three) |
 | [1304-longest-happy-string](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1304-longest-happy-string) |
