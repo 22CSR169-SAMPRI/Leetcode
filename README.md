@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0087-scramble-string) |
 | [0126-word-ladder-ii](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0127-word-ladder) |
@@ -121,12 +122,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0076-minimum-window-substring) |
 | [1755-defuse-the-bomb](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0140-word-break-ii) |
