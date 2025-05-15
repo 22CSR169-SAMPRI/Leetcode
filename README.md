@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0455-assign-cookies) |
+| [0493-reverse-pairs](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0493-reverse-pairs) |
 | [0546-remove-boxes](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0546-remove-boxes) |
 | [0729-my-calendar-i](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0731-my-calendar-ii) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0493-reverse-pairs](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0493-reverse-pairs) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0729-my-calendar-i](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0731-my-calendar-ii) |
@@ -259,12 +261,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
+| [0493-reverse-pairs](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0731-my-calendar-ii) |
 | [1262-online-majority-element-in-subarray](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1262-online-majority-element-in-subarray) |
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0731-my-calendar-ii) |
 ## Greedy
@@ -340,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0493-reverse-pairs) |
 ## Tree
 |  |
 | ------- |
@@ -376,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
+| [0493-reverse-pairs](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0493-reverse-pairs) |
 | [1262-online-majority-element-in-subarray](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1262-online-majority-element-in-subarray) |
 ## Breadth-First Search
 |  |
@@ -520,4 +526,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0873-guess-the-word](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0873-guess-the-word) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
