@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0768-partition-labels) |
+| [0781-basic-calculator-iv](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0781-basic-calculator-iv) |
 | [0873-guess-the-word](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0873-guess-the-word) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1133-last-substring-in-lexicographical-order) |
 | [1197-parsing-a-boolean-expression](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0768-partition-labels](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0768-partition-labels) |
+| [0781-basic-calculator-iv](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0781-basic-calculator-iv) |
 | [0989-largest-component-size-by-common-factor](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0989-largest-component-size-by-common-factor) |
 | [1039-find-the-town-judge](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1344-maximum-equal-frequency](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1344-maximum-equal-frequency) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0781-basic-calculator-iv](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0781-basic-calculator-iv) |
 | [0873-guess-the-word](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0873-guess-the-word) |
 | [0989-largest-component-size-by-common-factor](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0989-largest-component-size-by-common-factor) |
 | [1255-reverse-subarray-to-maximize-array-value](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1255-reverse-subarray-to-maximize-array-value) |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0224-basic-calculator](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0224-basic-calculator) |
 | [0739-daily-temperatures](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0739-daily-temperatures) |
+| [0781-basic-calculator-iv](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0781-basic-calculator-iv) |
 | [1197-parsing-a-boolean-expression](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 ## Monotonic Stack
 |  |
@@ -437,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0233-number-of-digit-one) |
+| [0781-basic-calculator-iv](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0781-basic-calculator-iv) |
 | [1197-parsing-a-boolean-expression](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Backtracking
