@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0067-add-binary) |
 | [0149-max-points-on-a-line](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0224-basic-calculator](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0224-basic-calculator) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0060-permutation-sequence](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0233-number-of-digit-one) |
 | [1197-parsing-a-boolean-expression](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
