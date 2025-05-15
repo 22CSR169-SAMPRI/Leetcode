@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0493-reverse-pairs) |
+| [0517-super-washing-machines](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0517-super-washing-machines) |
 | [0546-remove-boxes](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0546-remove-boxes) |
 | [0729-my-calendar-i](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0731-my-calendar-ii) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0455-assign-cookies) |
+| [0517-super-washing-machines](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0517-super-washing-machines) |
 | [0768-partition-labels](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0768-partition-labels) |
 | [1255-reverse-subarray-to-maximize-array-value](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1255-reverse-subarray-to-maximize-array-value) |
 | [1277-largest-multiple-of-three](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1277-largest-multiple-of-three) |
