@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0312-burst-balloons) |
 | [0546-remove-boxes](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0546-remove-boxes) |
+| [0600-non-negative-integers-without-consecutive-ones](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0629-k-inverse-pairs-array](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0629-k-inverse-pairs-array) |
 | [0647-palindromic-substrings](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0741-cherry-pickup](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0741-cherry-pickup) |
