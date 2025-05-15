@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0854-making-a-large-island) |
 | [0873-guess-the-word](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0873-guess-the-word) |
 | [0941-sort-array-by-parity](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [0989-largest-component-size-by-common-factor](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0989-largest-component-size-by-common-factor) |
 | [1036-rotting-oranges](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1042-minimum-cost-to-merge-stones) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0768-partition-labels](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0768-partition-labels) |
+| [0989-largest-component-size-by-common-factor](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0989-largest-component-size-by-common-factor) |
 | [1039-find-the-town-judge](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1344-maximum-equal-frequency](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1344-maximum-equal-frequency) |
 | [1364-tuple-with-same-product](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1364-tuple-with-same-product) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0873-guess-the-word](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0873-guess-the-word) |
+| [0989-largest-component-size-by-common-factor](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0989-largest-component-size-by-common-factor) |
 | [1255-reverse-subarray-to-maximize-array-value](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1255-reverse-subarray-to-maximize-array-value) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0989-largest-component-size-by-common-factor](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0989-largest-component-size-by-common-factor) |
 | [2491-smallest-even-multiple](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2722-prime-in-diagonal](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2722-prime-in-diagonal) |
@@ -494,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0854-making-a-large-island) |
+| [0989-largest-component-size-by-common-factor](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0989-largest-component-size-by-common-factor) |
 | [1073-number-of-enclaves](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
