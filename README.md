@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0224-basic-calculator](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0224-basic-calculator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0443-string-compression](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0696-count-binary-substrings) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0407-trapping-rain-water-ii](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0547-number-of-provinces](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0684-redundant-connection) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0052-n-queens-ii) |
 | [0126-word-ladder-ii](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0140-word-break-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
