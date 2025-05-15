@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0135-candy) |
 | [0140-word-break-ii](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0287-find-the-duplicate-number](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0347-top-k-frequent-elements](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0067-add-binary) |
+| [0149-max-points-on-a-line](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0224-basic-calculator](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [1563-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1563-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 ## String Matching
 |  |
