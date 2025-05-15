@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0067-add-binary) |
 | [0087-scramble-string](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0087-scramble-string) |
+| [0127-word-ladder](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0140-word-break-ii) |
 | [0165-compare-version-numbers](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0224-basic-calculator](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0224-basic-calculator) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0140-word-break-ii) |
 | [0347-top-k-frequent-elements](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0547-number-of-provinces](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/0547-number-of-provinces) |
