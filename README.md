@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Array
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2685-first-completely-painted-row-or-column](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2690-house-robber-iv](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2690-house-robber-iv) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2145-grid-game](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2145-grid-game) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/22CSR169-SAMPRI/Leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 ## Segment Tree
 |  |
 | ------- |
